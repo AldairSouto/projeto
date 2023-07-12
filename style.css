@@ -28,6 +28,7 @@ body {
     background: var(--bg-url);
     background-size: cover;
     background-position: center;
+    height: 100%vh;
 }
 
 body * {
